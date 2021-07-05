@@ -1,0 +1,11 @@
+[0]
+ArrayTools = "1dc0ca97-c5ce-4e77-ac6d-c576ac9d7f27"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+EasyFITS = "a977f4a2-36a7-4172-89e7-19c2726f82e5"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+MayOptimize = "049513e6-5a5e-4281-9d48-334ebac8954e"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+TwoDimensional = "1907e7ba-7586-4310-a2ba-dd01462aeb50"
+XPA = "d310a076-6a08-52b6-ab78-79baa254182b"
