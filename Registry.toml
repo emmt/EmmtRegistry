@@ -12,3 +12,4 @@ a977f4a2-36a7-4172-89e7-19c2726f82e5 = { name = "EasyFITS", path = "E/EasyFITS" 
 b5817eee-6272-4252-97ed-5e273cea12dd = { name = "Tao", path = "T/Tao" }
 c7119640-a72f-41a6-aa41-758559b204e7 = { name = "ScientificCameras", path = "S/ScientificCameras" }
 e97054c3-40bb-4251-82f9-3abb7bf225d1 = { name = "TaoBindings", path = "T/TaoBindings" }
+e9d32067-d496-40b5-8c90-e40f06d38009 = { name = "MultivariateOnlineStatistics", path = "M/MultivariateOnlineStatistics" }
