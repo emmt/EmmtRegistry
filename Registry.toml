@@ -7,3 +7,4 @@ repo = "https://github.com/emmt/EmmtRegistry"
 7137afbe-ade3-4903-9296-05966c540d95 = { name = "ScientificDetectors", path = "S/ScientificDetectors" }
 a977f4a2-36a7-4172-89e7-19c2726f82e5 = { name = "EasyFITS", path = "E/EasyFITS" }
 b5817eee-6272-4252-97ed-5e273cea12dd = { name = "Tao", path = "T/Tao" }
+e97054c3-40bb-4251-82f9-3abb7bf225d1 = { name = "TaoBindings", path = "T/TaoBindings" }
