@@ -1,0 +1,5 @@
+name = "EmmtRegistry"
+uuid = "e94f2b12-43de-423d-83e5-babb893dc0f6"
+repo = "https://github.com/emmt/EmmtRegistry"
+
+[packages]
