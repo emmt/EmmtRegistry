@@ -4,3 +4,4 @@ repo = "https://github.com/emmt/EmmtRegistry"
 
 [packages]
 a977f4a2-36a7-4172-89e7-19c2726f82e5 = { name = "EasyFITS", path = "E/EasyFITS" }
+b5817eee-6272-4252-97ed-5e273cea12dd = { name = "Tao", path = "T/Tao" }
