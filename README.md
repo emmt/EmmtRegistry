@@ -8,17 +8,14 @@ To add this registry in Julia:
 
 ```julia
 using Pkg
-Pkg.Registry.add(RegistrySpec(url = "https://github.com/emmt/EmmtRegistry"))
+pkg"registry add https://github.com/emmt/EmmtRegistry"
 ```
 
-or from the Julia's package manager (hit `]` key at Julia's REPL prompt):
+If you execute these commands in a fresh Julia installation, you may also want
+to add Julia's General Registry with all official packages of Julia.  This can
+be done by:
 
 ```julia
-... pkg> registry add https://github.com/emmt/EmmtRegistry
-... pkg> registry add General
+using Pkg
+pkg"registry add General"
 ```
-
-and hit the `Backspace` key at the package manager's prompt to go back to
-Julia's REPL.  The `registry add General` command above is needed if you want
-to keep Julia's General Registry of official packages (which in general you
-want).
