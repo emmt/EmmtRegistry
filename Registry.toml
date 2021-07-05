@@ -4,6 +4,7 @@ repo = "https://github.com/emmt/EmmtRegistry"
 
 [packages]
 080ffe24-4a27-4ab0-ad71-7b624e73ef8d = { name = "OptimPackNextGen", path = "O/OptimPackNextGen" }
+4995ad59-ea22-4881-abe2-ae7e9062fb98 = { name = "Alpao", path = "A/Alpao" }
 544ed34a-48a4-42df-8f69-6656fd9f4d48 = { name = "ConjugateGradient", path = "C/ConjugateGradient" }
 7137afbe-ade3-4903-9296-05966c540d95 = { name = "ScientificDetectors", path = "S/ScientificDetectors" }
 9d2c7f44-95c9-4219-b25f-7dc72cf9414a = { name = "AdaptiveOptics", path = "A/AdaptiveOptics" }
