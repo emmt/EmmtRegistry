@@ -1,0 +1,12 @@
+[0]
+ArrayTools = "1dc0ca97-c5ce-4e77-ac6d-c576ac9d7f27"
+ConjugateGradient = "544ed34a-48a4-42df-8f69-6656fd9f4d48"
+EasyFITS = "a977f4a2-36a7-4172-89e7-19c2726f82e5"
+InterpolationKernels = "16730964-a2ec-11e9-36fa-47a4f82bfac6"
+LazyAlgebra = "aeaa251e-9d76-11e9-311b-83636bf44738"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+MayOptimize = "049513e6-5a5e-4281-9d48-334ebac8954e"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+Tao = "b5817eee-6272-4252-97ed-5e273cea12dd"
+TwoDimensional = "1907e7ba-7586-4310-a2ba-dd01462aeb50"

@@ -1,0 +1,3 @@
+name = "SolarWavefrontSensing"
+uuid = "bd3f2295-c078-4c6c-b43c-22dc7ee51ce3"
+repo = "https://git-cral.univ-lyon1.fr/TAO/SolarWavefrontSensing.jl"
