@@ -10,6 +10,7 @@ repo = "https://github.com/emmt/EmmtRegistry"
 544ed34a-48a4-42df-8f69-6656fd9f4d48 = { name = "ConjugateGradient", path = "C/ConjugateGradient" }
 59a21e54-00bc-4653-8d10-290de9306ebc = { name = "PointSpreadFunctions", path = "P/PointSpreadFunctions" }
 7137afbe-ade3-4903-9296-05966c540d95 = { name = "ScientificDetectors", path = "S/ScientificDetectors" }
+9b8a2eb5-3725-4372-9eb1-1eb11fa2fbbe = { name = "ThemisAO", path = "T/ThemisAO" }
 9d2c7f44-95c9-4219-b25f-7dc72cf9414a = { name = "AdaptiveOptics", path = "A/AdaptiveOptics" }
 a6f1060a-fcb4-4ec9-a17b-f0f9a1d7da62 = { name = "AndorCameras", path = "A/AndorCameras" }
 a977f4a2-36a7-4172-89e7-19c2726f82e5 = { name = "EasyFITS", path = "E/EasyFITS" }
