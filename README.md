@@ -19,3 +19,12 @@ be done by:
 using Pkg
 pkg"registry add General"
 ```
+
+In a script (e.g., for [CI
+testing](https://en.wikipedia.org/wiki/Continuous_integration):
+
+```julia
+using Pkg
+Pkg.Registry.add("https://github.com/emmt/EmmtRegistry")
+Pkg.Registry.add(RegistrySpec(url = "https://github.com/emmt/EmmtRegistry"))
+```
