@@ -25,6 +25,6 @@ testing](https://en.wikipedia.org/wiki/Continuous_integration):
 
 ```julia
 using Pkg
-Pkg.Registry.add("https://github.com/emmt/EmmtRegistry")
+Pkg.Registry.add("General")
 Pkg.Registry.add(RegistrySpec(url = "https://github.com/emmt/EmmtRegistry"))
 ```
