@@ -6,6 +6,7 @@ repo = "https://github.com/emmt/EmmtRegistry"
 080ffe24-4a27-4ab0-ad71-7b624e73ef8d = { name = "OptimPackNextGen", path = "O/OptimPackNextGen" }
 16730964-a2ec-11e9-36fa-47a4f82bfac6 = { name = "InterpolationKernels", path = "I/InterpolationKernels" }
 2fc109c4-9d77-11e9-32ff-e5c650334c16 = { name = "LinearInterpolators", path = "L/LinearInterpolators" }
+30b38841-0f52-47f8-a5f8-18d5d4064379 = { name = "QuickHeaps", path = "Q/QuickHeaps" }
 4995ad59-ea22-4881-abe2-ae7e9062fb98 = { name = "Alpao", path = "A/Alpao" }
 544ed34a-48a4-42df-8f69-6656fd9f4d48 = { name = "ConjugateGradient", path = "C/ConjugateGradient" }
 59a21e54-00bc-4653-8d10-290de9306ebc = { name = "PointSpreadFunctions", path = "P/PointSpreadFunctions" }
