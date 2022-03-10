@@ -10,3 +10,6 @@ Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 Tao = "b5817eee-6272-4252-97ed-5e273cea12dd"
 TwoDimensional = "1907e7ba-7586-4310-a2ba-dd01462aeb50"
+
+["0.2.1-0"]
+LocalRegistry = "89398ba2-070a-4b16-a995-9893c55d93cf"
