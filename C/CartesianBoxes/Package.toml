@@ -1,0 +1,3 @@
+name = "CartesianBoxes"
+uuid = "f894539e-422c-4c16-819a-0e1d0163d378"
+repo = "git@github.com:emmt/CartesianBoxes.jl.git"
