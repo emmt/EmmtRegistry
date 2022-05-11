@@ -1,3 +1,3 @@
 name = "MultivariateOnlineStatistics"
 uuid = "e9d32067-d496-40b5-8c90-e40f06d38009"
-repo = "https://github.com/emmt/MultivariateOnlineStatistics.jl"
+repo = "https://github.com/emmt/MultivariateOnlineStatistics.jl.git"

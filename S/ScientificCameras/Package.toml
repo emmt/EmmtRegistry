@@ -1,3 +1,3 @@
 name = "ScientificCameras"
 uuid = "c7119640-a72f-41a6-aa41-758559b204e7"
-repo = "https://github.com/emmt/ScientificCameras.jl"
+repo = "https://github.com/emmt/ScientificCameras.jl.git"
