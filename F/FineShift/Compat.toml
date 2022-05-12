@@ -1,0 +1,4 @@
+[0]
+ArrayTools = "0.2"
+InterpolationKernels = "0.2"
+julia = "1"
