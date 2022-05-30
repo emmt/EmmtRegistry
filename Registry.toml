@@ -5,6 +5,7 @@ repo = "https://github.com/emmt/EmmtRegistry"
 [packages]
 080ffe24-4a27-4ab0-ad71-7b624e73ef8d = { name = "OptimPackNextGen", path = "O/OptimPackNextGen" }
 16730964-a2ec-11e9-36fa-47a4f82bfac6 = { name = "InterpolationKernels", path = "I/InterpolationKernels" }
+1afde568-c220-478b-8c78-633644781b80 = { name = "LibUSB", path = "L/LibUSB" }
 2fc109c4-9d77-11e9-32ff-e5c650334c16 = { name = "LinearInterpolators", path = "L/LinearInterpolators" }
 30b38841-0f52-47f8-a5f8-18d5d4064379 = { name = "QuickHeaps", path = "Q/QuickHeaps" }
 482535f4-4eff-4998-8428-5ff2b5e59f9e = { name = "AstronomicalDetectors", path = "A/AstronomicalDetectors" }
