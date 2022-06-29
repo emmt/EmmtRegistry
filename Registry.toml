@@ -21,6 +21,7 @@ repo = "https://github.com/emmt/EmmtRegistry"
 a6f1060a-fcb4-4ec9-a17b-f0f9a1d7da62 = { name = "AndorCameras", path = "A/AndorCameras" }
 a977f4a2-36a7-4172-89e7-19c2726f82e5 = { name = "EasyFITS", path = "E/EasyFITS" }
 b5817eee-6272-4252-97ed-5e273cea12dd = { name = "Tao", path = "T/Tao" }
+bd0ea217-0861-4661-bed1-3e8ea598dd25 = { name = "EasyRanges", path = "E/EasyRanges" }
 bd3f2295-c078-4c6c-b43c-22dc7ee51ce3 = { name = "SolarWavefrontSensing", path = "S/SolarWavefrontSensing" }
 bfa79951-833f-460b-a5a3-57213acc08ae = { name = "SimpleExpressions", path = "S/SimpleExpressions" }
 c7119640-a72f-41a6-aa41-758559b204e7 = { name = "ScientificCameras", path = "S/ScientificCameras" }
