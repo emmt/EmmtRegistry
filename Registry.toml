@@ -14,6 +14,7 @@ repo = "https://github.com/emmt/EmmtRegistry"
 544ed34a-48a4-42df-8f69-6656fd9f4d48 = { name = "ConjugateGradient", path = "C/ConjugateGradient" }
 59a21e54-00bc-4653-8d10-290de9306ebc = { name = "PointSpreadFunctions", path = "P/PointSpreadFunctions" }
 7137afbe-ade3-4903-9296-05966c540d95 = { name = "ScientificDetectors", path = "S/ScientificDetectors" }
+74412db6-434d-4bd9-a98b-356cb7d43f10 = { name = "FITSCards", path = "F/FITSCards" }
 83f21cc0-8014-4203-be99-7f9a344a7887 = { name = "IndexingTools", path = "I/IndexingTools" }
 86c6b398-e7f6-4237-a185-b5d3f59d0094 = { name = "ArcusPerformax", path = "A/ArcusPerformax" }
 9b8a2eb5-3725-4372-9eb1-1eb11fa2fbbe = { name = "ThemisAO", path = "T/ThemisAO" }

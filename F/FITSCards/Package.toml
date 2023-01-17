@@ -1,0 +1,3 @@
+name = "FITSCards"
+uuid = "74412db6-434d-4bd9-a98b-356cb7d43f10"
+repo = "https://github.com/emmt/FITSCards.jl.git"
