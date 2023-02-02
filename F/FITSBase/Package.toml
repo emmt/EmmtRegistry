@@ -1,0 +1,3 @@
+name = "FITSBase"
+uuid = "ff9d1741-4d03-4fa8-9786-af30ea789bb0"
+repo = "https://github.com/emmt/FITSBase.jl.git"
