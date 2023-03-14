@@ -1,0 +1,3 @@
+name = "DiscreteVoronoiDiagrams"
+uuid = "74c5835c-25bd-4239-8bf4-447bc7683bfe"
+repo = "https://github.com/emmt/DiscreteVoronoiDiagrams.jl.git"
