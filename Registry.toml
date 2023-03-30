@@ -9,6 +9,7 @@ repo = "https://github.com/emmt/EmmtRegistry"
 26e58924-7088-4c52-a09b-339225018a32 = { name = "PairedArrays", path = "P/PairedArrays" }
 2fc109c4-9d77-11e9-32ff-e5c650334c16 = { name = "LinearInterpolators", path = "L/LinearInterpolators" }
 30b38841-0f52-47f8-a5f8-18d5d4064379 = { name = "QuickHeaps", path = "Q/QuickHeaps" }
+3b927206-3603-4c32-b475-c7648854e36c = { name = "StructureFunctions", path = "S/StructureFunctions" }
 482535f4-4eff-4998-8428-5ff2b5e59f9e = { name = "AstronomicalDetectors", path = "A/AstronomicalDetectors" }
 4995ad59-ea22-4881-abe2-ae7e9062fb98 = { name = "Alpao", path = "A/Alpao" }
 534671aa-9d76-11e9-0200-554c6844f1ff = { name = "FineShift", path = "F/FineShift" }
