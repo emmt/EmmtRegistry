@@ -18,8 +18,11 @@ TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
 ["0.5-0"]
 BaseFITS = "b056ee54-6bb4-44e7-9abb-abfb59909e18"
 
-["0.5.4-0"]
+["0.5.4-0.5.6"]
 AsType = "ca91d8e0-3195-446d-9999-6c164cca1bdd"
 
 ["0.5.6-0"]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+
+["0.5.7-0"]
+TypeUtils = "c3b1956e-8857-4d84-9b79-890df85b1e67"
