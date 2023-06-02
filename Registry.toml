@@ -29,6 +29,7 @@ b5817eee-6272-4252-97ed-5e273cea12dd = { name = "Tao", path = "T/Tao" }
 bd0ea217-0861-4661-bed1-3e8ea598dd25 = { name = "EasyRanges", path = "E/EasyRanges" }
 bd3f2295-c078-4c6c-b43c-22dc7ee51ce3 = { name = "SolarWavefrontSensing", path = "S/SolarWavefrontSensing" }
 bfa79951-833f-460b-a5a3-57213acc08ae = { name = "SimpleExpressions", path = "S/SimpleExpressions" }
+c3b1956e-8857-4d84-9b79-890df85b1e67 = { name = "TypeUtils", path = "T/TypeUtils" }
 c7119640-a72f-41a6-aa41-758559b204e7 = { name = "ScientificCameras", path = "S/ScientificCameras" }
 c904d999-9673-4878-a3dd-e3ef1851788a = { name = "Unitless", path = "U/Unitless" }
 ca91d8e0-3195-446d-9999-6c164cca1bdd = { name = "AsType", path = "A/AsType" }
