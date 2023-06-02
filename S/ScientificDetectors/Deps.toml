@@ -10,9 +10,6 @@ MultivariateOnlineStatistics = "e9d32067-d496-40b5-8c90-e40f06d38009"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 
 ["0.3-0"]
-Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
 SimpleExpressions = "bfa79951-833f-460b-a5a3-57213acc08ae"
-StructuredArrays = "2e8cd123-6858-488d-b42d-068777248635"
-TypeUtils = "c3b1956e-8857-4d84-9b79-890df85b1e67"
