@@ -15,8 +15,11 @@ Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 Requires = "ae029012-a4dd-5104-9daa-d747884805df"
 TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
 
-["0.5-0"]
+["0.5-0.5.12"]
 BaseFITS = "b056ee54-6bb4-44e7-9abb-abfb59909e18"
+
+["0.5.13-0"]
+FITSHeaders = "8163a04c-c153-4fb1-a498-3402381ec208"
 
 ["0.5.4-0.5.6"]
 AsType = "ca91d8e0-3195-446d-9999-6c164cca1bdd"
