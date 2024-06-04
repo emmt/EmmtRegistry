@@ -8,7 +8,6 @@ OptimPackNextGen = "0.2.2-0.2"
 
 ["0.3.1-0"]
 ArrayTools = "0.2.3-0.3"
-EasyFITS = "0.5.2-0.5"
 MultivariateOnlineStatistics = "0.2.1-0.2"
 StructuredArrays = "0.2.5-0.2"
 julia = "1.6.0-1"
@@ -16,5 +15,11 @@ julia = "1.6.0-1"
 ["0.3.1-0.3.3"]
 TypeUtils = "0.2-0.3"
 
+["0.3.1-0.3.4"]
+EasyFITS = "0.5.2-0.5"
+
 ["0.3.4-0"]
 TypeUtils = ["0.2-0.3", "1"]
+
+["0.3.5-0"]
+EasyFITS = "0.6"
