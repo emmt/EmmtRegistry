@@ -20,6 +20,7 @@ repo = "https://github.com/emmt/EmmtRegistry"
 59a21e54-00bc-4653-8d10-290de9306ebc = { name = "PointSpreadFunctions", path = "P/PointSpreadFunctions" }
 7137afbe-ade3-4903-9296-05966c540d95 = { name = "ScientificDetectors", path = "S/ScientificDetectors" }
 74c5835c-25bd-4239-8bf4-447bc7683bfe = { name = "DiscreteVoronoiDiagrams", path = "D/DiscreteVoronoiDiagrams" }
+77d29c75-3847-48dd-b74a-66585bbee1d5 = { name = "AMORS", path = "A/AMORS" }
 83f21cc0-8014-4203-be99-7f9a344a7887 = { name = "IndexingTools", path = "I/IndexingTools" }
 86c6b398-e7f6-4237-a185-b5d3f59d0094 = { name = "ArcusPerformax", path = "A/ArcusPerformax" }
 9b8a2eb5-3725-4372-9eb1-1eb11fa2fbbe = { name = "ThemisAO", path = "T/ThemisAO" }
