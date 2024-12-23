@@ -1,0 +1,3 @@
+name = "WrappedArrays"
+uuid = "8380bcae-3181-40bd-bcc0-3ca5bbdcff51"
+repo = "https://github.com/emmt/WrappedArrays.jl.git"
