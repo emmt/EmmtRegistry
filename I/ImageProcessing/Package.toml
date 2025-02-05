@@ -1,0 +1,3 @@
+name = "ImageProcessing"
+uuid = "45b7010d-6bd2-4dbe-aaef-5f0c144f0fe8"
+repo = "https://github.com/emmt/ImageProcessing.jl.git"

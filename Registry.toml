@@ -12,6 +12,7 @@ repo = "https://github.com/emmt/EmmtRegistry"
 2fc109c4-9d77-11e9-32ff-e5c650334c16 = { name = "LinearInterpolators", path = "L/LinearInterpolators" }
 30b38841-0f52-47f8-a5f8-18d5d4064379 = { name = "QuickHeaps", path = "Q/QuickHeaps" }
 3b927206-3603-4c32-b475-c7648854e36c = { name = "StructureFunctions", path = "S/StructureFunctions" }
+45b7010d-6bd2-4dbe-aaef-5f0c144f0fe8 = { name = "ImageProcessing", path = "I/ImageProcessing" }
 482535f4-4eff-4998-8428-5ff2b5e59f9e = { name = "AstronomicalDetectors", path = "A/AstronomicalDetectors" }
 4995ad59-ea22-4881-abe2-ae7e9062fb98 = { name = "Alpao", path = "A/Alpao" }
 507ed68b-720a-4eb1-bfe3-3b783b659ef3 = { name = "TaoRT", path = "T/TaoRT" }
