@@ -9,6 +9,7 @@ repo = "https://github.com/emmt/EmmtRegistry"
 19474dce-faed-4c37-be94-3eba84df10eb = { name = "NumOptBase", path = "N/NumOptBase" }
 1afde568-c220-478b-8c78-633644781b80 = { name = "LibUSB", path = "L/LibUSB" }
 26e58924-7088-4c52-a09b-339225018a32 = { name = "PairedArrays", path = "P/PairedArrays" }
+2758ec0b-f557-436b-b200-4cc84a62d883 = { name = "Backport", path = "B/Backport" }
 2fc109c4-9d77-11e9-32ff-e5c650334c16 = { name = "LinearInterpolators", path = "L/LinearInterpolators" }
 30b38841-0f52-47f8-a5f8-18d5d4064379 = { name = "QuickHeaps", path = "Q/QuickHeaps" }
 3b927206-3603-4c32-b475-c7648854e36c = { name = "StructureFunctions", path = "S/StructureFunctions" }
