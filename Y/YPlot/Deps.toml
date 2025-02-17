@@ -1,5 +1,9 @@
-["0-0.1"]
+["0 - 0.1"]
 PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
 
-["0.2-0"]
+["0.2 - 0"]
 PythonPlot = "274fc56d-3b97-40fa-a1cd-1b4a50311bf9"
+
+["0.2.2 - 0"]
+Backport = "2758ec0b-f557-436b-b200-4cc84a62d883"
+OffsetArrays = "6fe1bfb0-de20-5000-8ca7-80f57d26f881"
