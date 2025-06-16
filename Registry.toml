@@ -5,6 +5,7 @@ repo = "https://github.com/emmt/EmmtRegistry"
 [packages]
 080ffe24-4a27-4ab0-ad71-7b624e73ef8d = { name = "OptimPackNextGen", path = "O/OptimPackNextGen" }
 09143c45-d661-4475-8be2-834f77195a9c = { name = "PowellMethods", path = "P/PowellMethods" }
+0f65a36a-af8f-424e-b067-d751494a2e7b = { name = "LazyMaps", path = "L/LazyMaps" }
 16730964-a2ec-11e9-36fa-47a4f82bfac6 = { name = "InterpolationKernels", path = "I/InterpolationKernels" }
 19474dce-faed-4c37-be94-3eba84df10eb = { name = "NumOptBase", path = "N/NumOptBase" }
 1afde568-c220-478b-8c78-633644781b80 = { name = "LibUSB", path = "L/LibUSB" }
