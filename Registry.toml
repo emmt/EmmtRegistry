@@ -42,6 +42,7 @@ c3b1956e-8857-4d84-9b79-890df85b1e67 = { name = "TypeUtils", path = "T/TypeUtils
 c7119640-a72f-41a6-aa41-758559b204e7 = { name = "ScientificCameras", path = "S/ScientificCameras" }
 c904d999-9673-4878-a3dd-e3ef1851788a = { name = "Unitless", path = "U/Unitless" }
 ca91d8e0-3195-446d-9999-6c164cca1bdd = { name = "AsType", path = "A/AsType" }
+cc9ef2aa-5034-4aa9-a69b-c36694cce9f8 = { name = "UnsetIndex", path = "U/UnsetIndex" }
 d7a85fb2-cd42-4b94-9561-afde44875000 = { name = "ASAP", path = "A/ASAP" }
 d98d927a-eebc-4e2e-bfd8-b8854602986e = { name = "CenterOfGravity", path = "C/CenterOfGravity" }
 ddf97fdd-5a38-42de-8a7b-42afb5fa1e3e = { name = "ASAPDetection", path = "A/ASAPDetection" }
