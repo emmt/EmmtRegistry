@@ -1,0 +1,3 @@
+name = "ParsingTools"
+uuid = "b83cd7f5-a5d7-4974-8c67-0ec65dfcfb8e"
+repo = "https://github.com/emmt/ParsingTools.jl.git"

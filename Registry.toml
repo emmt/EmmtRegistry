@@ -35,6 +35,7 @@ a977f4a2-36a7-4172-89e7-19c2726f82e5 = { name = "EasyFITS", path = "E/EasyFITS" 
 ac3684bf-d7a2-4562-b2cd-6050d7e0f671 = { name = "YPlot", path = "Y/YPlot" }
 b056ee54-6bb4-44e7-9abb-abfb59909e18 = { name = "BaseFITS", path = "B/BaseFITS" }
 b5817eee-6272-4252-97ed-5e273cea12dd = { name = "Tao", path = "T/Tao" }
+b83cd7f5-a5d7-4974-8c67-0ec65dfcfb8e = { name = "ParsingTools", path = "P/ParsingTools" }
 bd0ea217-0861-4661-bed1-3e8ea598dd25 = { name = "EasyRanges", path = "E/EasyRanges" }
 bd3f2295-c078-4c6c-b43c-22dc7ee51ce3 = { name = "SolarWavefrontSensing", path = "S/SolarWavefrontSensing" }
 bfa79951-833f-460b-a5a3-57213acc08ae = { name = "SimpleExpressions", path = "S/SimpleExpressions" }
