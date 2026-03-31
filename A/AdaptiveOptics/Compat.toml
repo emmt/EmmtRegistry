@@ -1,12 +1,19 @@
+["0.10"]
+EasyFITS = "0.5"
+Tao = "0.10"
+TwoDimensional = "0.2-0.3"
+
 ["0.10-0"]
 ArrayTools = "0.2.3-0.3"
 CenterOfGravity = "0.1.2-0.1"
-EasyFITS = "0.5"
 LazyAlgebra = "0.2"
 OptimPackNextGen = "0.3"
 ResizableArrays = "0.3"
-Tao = "0.10"
-TwoDimensional = "0.2-0.3"
+
+["0.11-0"]
+AstroFITS = "1.1.0-1"
+Tao = "0.11"
+TwoDimensional = "0.2-0.5"
 
 ["0.2.1-0"]
 MayOptimize = "0.2-0.3"
