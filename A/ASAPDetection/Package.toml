@@ -1,3 +1,3 @@
 name = "ASAPDetection"
 uuid = "ddf97fdd-5a38-42de-8a7b-42afb5fa1e3e"
-repo = "https://github.com/emmt/ASAPDetection.jl.git"
+repo = "git@github.com:emmt/ASAPDetection.jl.git"

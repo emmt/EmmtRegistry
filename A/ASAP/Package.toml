@@ -1,3 +1,3 @@
 name = "ASAP"
 uuid = "d7a85fb2-cd42-4b94-9561-afde44875000"
-repo = "https://github.com/emmt/ASAP.jl.git"
+repo = "git@github.com:emmt/ASAP.jl.git"
