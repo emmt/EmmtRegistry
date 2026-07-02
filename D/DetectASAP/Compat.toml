@@ -1,0 +1,11 @@
+[0]
+ASAP = "0.2"
+ArrayTools = "0.2.7-0.3"
+AstroFITS = "1.2.0-1"
+EasyRanges = "0.1"
+OffsetArrays = "1"
+StatsBase = "0.34"
+TwoDimensional = "0.2-0.6"
+TypeUtils = ["0.2.4-0.3", "1-2"]
+Unitful = "1.28.0-1"
+julia = "1.5.0-1"

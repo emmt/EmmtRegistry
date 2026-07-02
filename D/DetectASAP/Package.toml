@@ -1,0 +1,3 @@
+name = "DetectASAP"
+uuid = "15fe70a9-03d1-4ee6-9f92-47c30c9ee67c"
+repo = "https://github.com/emmt/DetectASAP.jl.git"
