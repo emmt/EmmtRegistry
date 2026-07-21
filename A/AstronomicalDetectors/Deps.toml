@@ -1,5 +1,14 @@
 [0]
+ScientificDetectors = "7137afbe-ade3-4903-9296-05966c540d95"
+
+["0-0.1"]
 EasyFITS = "a977f4a2-36a7-4172-89e7-19c2726f82e5"
 FITSIO = "525bcba6-941b-5504-bd06-fd0dc1a4d2eb"
-ScientificDetectors = "7137afbe-ade3-4903-9296-05966c540d95"
 SimpleExpressions = "bfa79951-833f-460b-a5a3-57213acc08ae"
+
+["0.2-0"]
+AstroFITS = "34e54ef0-c5bf-48ab-9e5d-cca51f35ed77"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+OnlineSampleStatistics = "455218f6-ed6f-43e9-ad07-c481a1567983"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
